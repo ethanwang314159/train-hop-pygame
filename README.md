@@ -1,6 +1,6 @@
 # TRAIN HOP!!!
 
-Trainhop is a pygame game made in 2025 for an assignment. Contains trains.
+Trainhop is a pygame game made in 2025 for an assignment. Contains trains made by someone(not me) who likes trains.
 
 ## Playing
 
